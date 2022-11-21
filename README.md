@@ -1,4 +1,4 @@
-# AngularMaterialCrud
+# Angular Material CRUD
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
 This project is based in the video tutorial [Youtube - Angular 13 CRUD with Angular Material UI | json-server | Angular Reactive Form](https://www.youtube.com/watch?v=jGbP620NahE)

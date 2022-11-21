@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "Apple",
+      "category": "Eletronics",
+      "date": "2022-11-01T03:00:00.000Z",
+      "freshness": "Brand New",
+      "price": 14242,
+      "comment": "New Apple",
+      "id": 1
+    },
+    {
+      "name": "Radio",
+      "category": "Eletronics",
+      "date": "2022-11-10T03:00:00.000Z",
+      "freshness": "Brand New",
+      "price": 100,
+      "comment": "No comments",
+      "id": 2
+    },
+    {
+      "name": "Tablet",
+      "category": "Eletronics",
+      "date": "2022-11-10T03:00:00.000Z",
+      "freshness": "Second Hand",
+      "price": 50,
+      "comment": "No comments",
+      "id": 3
+    },
+    {
+      "name": "Head phone",
+      "category": "Eletronics",
+      "date": "2022-11-01T03:00:00.000Z",
+      "freshness": "Brand New",
+      "price": 252.22,
+      "comment": "No comments",
+      "id": 4
+    }
+  ]
+}

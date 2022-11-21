@@ -1,10 +1,15 @@
 # AngularMaterialCrud
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
+This project is based in the video tutorial [Youtube - Angular 13 CRUD with Angular Material UI | json-server | Angular Reactive Form](https://www.youtube.com/watch?v=jGbP620NahE)
+
+## Json Server
+
+First of all, run `json-server --watch db.json` for a dev server. 
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `ng serve --open` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
